@@ -2,13 +2,13 @@
 
 ### 🇪🇬 A 15-year-old Full-Stack Developer & AI Enthusiast from Egypt.
 
-I am passionate about building software that makes a difference. I specialize in combining modern web technologies with Artificial Intelligence.
+I am passionate about building software that makes a difference. I specialize in combining modern web technologies with Artificial Intelligence, Most of the time to say the least.
 
 ---
 
 ### Featured Project: Pure Path
 **Founder & Lead Developer**
-> *Pure Path is a solution dedicated to blocking NSFW content to create a safer browsing environment.*
+> *Pure Path is a solution dedicated to blocking NSFW content to create a safer browsing environment and help cure those who are addicted.*
 
 * **Focus:** Internet Safety, AI Content Filtering.
 * **Tech:** Python, AI Models.

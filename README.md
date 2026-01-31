@@ -10,14 +10,14 @@ I am interested in building software that makes a difference. I specialize in co
 **Founder & Lead Developer**
 > *Pure Path is a solution dedicated to blocking NSFW content to create a safer browsing environment and help cure those who are addicted.*
 
-* **Focus:** Internet Safety, AI Content Filtering.
-* **Tech:** Python, AI Models.
+* **Focus:** Personal Safety, Content Filtering.
+* **Tech:** Python, Typecsript, NSFW.js.
 
 ---
 
-### Technologies & Tools
+### Tools.
 
-Here are the tools I work with to bring ideas to life:
+Here are the tools I work with:
 
 **Languages & Frameworks**
 <p>

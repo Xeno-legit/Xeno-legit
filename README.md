@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Abdulhamid Ali!
+# Hello there, I'm Abdulhamid Ali.
 
 ### 🇪🇬 A 15-year-old Full-Stack Developer & AI Enthusiast from Egypt.
 
@@ -6,7 +6,7 @@ I am passionate about building software that makes a difference. I specialize in
 
 ---
 
-### 🚀 Featured Project: Pure Path
+### Featured Project: Pure Path
 **Founder & Lead Developer**
 > *Pure Path is a solution dedicated to blocking NSFW content to create a safer browsing environment.*
 
@@ -15,7 +15,7 @@ I am passionate about building software that makes a difference. I specialize in
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 Here are the tools I work with to bring ideas to life:
 
@@ -35,7 +35,7 @@ Here are the tools I work with to bring ideas to life:
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Abdulhamid's Stats" />

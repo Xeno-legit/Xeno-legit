@@ -12,6 +12,17 @@ I am interested in building software that makes a difference. I specialize in co
 
 * **Focus:** Personal Safety, Content Filtering.
 * **Tech:** Python, Typecsript, NSFW.js.
+* **Status**: Phase 1 of development.
+
+---
+
+### Another Project: SectorOne
+**Founder & Lead Developer**
+> *A weapon search engine, Yes, That's it.*
+
+* **Focus:** Gun browsing.
+* **Tech:** Typescript.
+* **Status**: No more development.
 
 ---
 

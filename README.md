@@ -48,3 +48,5 @@ Here are the tools I work with:
 </p>
 
 ---
+
+> Available for Hiring.

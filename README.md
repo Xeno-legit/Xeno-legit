@@ -1,8 +1,8 @@
 # Hello there, I'm Abdulhamid Ali.
 
-### Your generic 15-year-old Full-Stack Developer & AI Dev from Egypt.
+### Your generic 15-year-old Full-Stack Developer from Egypt.
 
-I am interested in building software that makes a difference. I specialize in combining modern web technologies with Artificial Intelligence, Most of the time to say the least.
+I am interested in building software that makes a difference. Most of the time to say the least. lmao-
 
 ---
 

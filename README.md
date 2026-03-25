@@ -3,6 +3,7 @@
 ### Your generic 16-year-old Full-Stack Developer from Egypt.
 
 I am interested in building software that makes a difference. Most of the time to say the least. lmao-
+I am more into Backend than Frontend.
 
 ---
 

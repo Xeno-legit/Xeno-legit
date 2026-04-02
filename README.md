@@ -18,7 +18,6 @@ I am more into Backend than Frontend.
 ---
 
 ### Another Project: SectorOne
-**Founder & Lead Developer**
 > *A weapon search engine, Yes, That's it.*
 
 * **Focus:** Gun browsing.

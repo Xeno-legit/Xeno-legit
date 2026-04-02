@@ -13,7 +13,7 @@ I am more into Backend than Frontend.
 
 * **Focus:** Personal Safety, Content Filtering.
 * **Tech:** Python, Typecsript, NSFW.js.
-* **Status**: Phase 1 of development.
+* **Status**: Phase 2 of development.
 
 ---
 
